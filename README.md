@@ -1,7 +1,7 @@
 
-    Hi! I'm Shawn Cheung.But you can call me ROOKIE.
+    Hi! I'm Shawn Cheung.But you can call me ROOKIE.😿
     I'm interested in GNU/Linux, nvim, C, Golang, Rust and ALGO.  
-    Welcome to exchange. :smiley:
+    Welcome to exchange. 😃
   
   
 <!---
