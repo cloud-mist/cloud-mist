@@ -1,6 +1,6 @@
 
-    Hi! I'm Shawn Cheung.But you can call me ROOKIE.😿
-    I'm interested in GNU/Linux, nvim, C, Golang, Rust and ALGO.  
+    Hi! I'm Shawn Cheung.A Older Student, 26 years old.And you can call me ROOKIE.Because 🥬. Hah.
+    I'm interested in GNU/Linux system programming, nvim, C, Rust, Golang and ALGO.  
     Welcome to exchange. 😃
   
   
