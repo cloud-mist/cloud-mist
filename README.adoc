@@ -1,0 +1,9 @@
+
+    Hi,there! ✋
+    
+    * I'm Shawn Cheung.
+    * A Older Student, 26 years old.
+    * I'm interested in GNU/Linux, Algorithm, Golang, Rust, nvim and etc.
+    
+    Welcome to exchange. 😃
+  
