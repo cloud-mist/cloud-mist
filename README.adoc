@@ -9,5 +9,5 @@ Welcome to exchange. 😃
 
 ---
 
-[![shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloud-mist)](https://github.com/anuraghazra/github-readme-stats)
+[![shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloud-mist)](https://github.com/cloud-mist/github-readme-stats)
   
