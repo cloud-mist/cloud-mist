@@ -6,4 +6,8 @@ Hi,there! ✋
 * I'm interested in GNU/Linux, Algorithm, Golang, Rust, nvim and etc.
     
 Welcome to exchange. 😃
+
+---
+
+[![shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloud-mist)](https://github.com/anuraghazra/github-readme-stats)
   
