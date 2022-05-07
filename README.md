@@ -10,6 +10,7 @@
 - ⚡ Fun fact **Linux, Nvim, Rubik's Cube, Guitar**
 
 <h3 align="left">Blog Posts</h3>
+
 <!-- BLOG-POST-LIST:START -->
 - [Alg | 栈/队列/排序](https://shawncheung.com/programming/alg-struct-stkque/)
 - [Alg | 质数](https://shawncheung.com/programming/alg-math-prime/)
