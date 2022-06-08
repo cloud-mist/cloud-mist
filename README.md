@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shawn.</h1>
-<h3 align="center">A developer in China</h3>
 
 - 🌱 I’m currently learning **CSAPP, 6.824, Alg, Gin.**
 
