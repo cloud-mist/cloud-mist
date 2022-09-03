@@ -11,10 +11,10 @@
 <h3 align="left">Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Alg | 约数](https://shawncheung.com/programming/alg-math-divisor/)
+- [Alg | 位运算](https://shawncheung.com/programming/alg-bitop/)
 - [Alg | 栈/队列/排序](https://shawncheung.com/programming/alg-struct-stkque/)
 - [Alg | 质数](https://shawncheung.com/programming/alg-math-prime/)
-- [2021 回味与小唠](https://shawncheung.com/life/talk-end2021/)
-- [Golang | 算法题的输入输出](https://shawncheung.com/programming/go-alg-io/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Langs & Tools</h3>
