@@ -11,10 +11,10 @@
 <h3 align="left">Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Alg | 约数](https://shawncheung.com/programming/alg-math-divisor/)
-- [Alg | 位运算](https://shawncheung.com/programming/alg-bitop/)
-- [Alg | 栈/队列/排序](https://shawncheung.com/programming/alg-struct-stkque/)
-- [Alg | 质数](https://shawncheung.com/programming/alg-math-prime/)
+- [Alg | DFS](https://shawncheung.com/programming/alg-search-dfs/)
+- [Linux | gawk](https://shawncheung.com/programming/linux-gawk/)
+- [Linux | sed](https://shawncheung.com/programming/linux-sed/)
+- [快速幂 &amp; 欧拉函数](https://shawncheung.com/programming/alg-math-euler--qmi/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Langs & Tools</h3>
