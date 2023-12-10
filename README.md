@@ -12,9 +12,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Alg | DFS](https://shawncheung.com/programming/alg-search-dfs/)
-- [Linux | gawk](https://shawncheung.com/programming/linux-gawk/)
 - [Linux | sed](https://shawncheung.com/programming/linux-sed/)
 - [快速幂 &amp; 欧拉函数](https://shawncheung.com/programming/alg-math-euler--qmi/)
+- [Alg | 约数](https://shawncheung.com/programming/alg-math-divisor/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Langs & Tools</h3>
