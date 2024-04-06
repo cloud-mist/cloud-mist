@@ -11,10 +11,10 @@
 <h3 align="left">Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [日 记](https://shawncheung.com/life/diary-2024/)
 - [Alg | DFS](https://shawncheung.com/programming/alg-search-dfs/)
 - [Linux | sed](https://shawncheung.com/programming/linux-sed/)
 - [快速幂 &amp; 欧拉函数](https://shawncheung.com/programming/alg-math-euler--qmi/)
-- [Alg | 约数](https://shawncheung.com/programming/alg-math-divisor/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Langs & Tools</h3>
